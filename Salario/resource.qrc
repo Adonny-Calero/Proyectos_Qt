@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>recursos/contabilidad.png</file>
+        <file>recursos/regreso.png</file>
+        <file>recursos/carpeta.png</file>
+        <file>recursos/salvar.png</file>
+        <file>recursos/cerrar-sesion.png</file>
+        <file>recursos/presupuesto.png</file>
+    </qresource>
+</RCC>
